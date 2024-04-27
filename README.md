@@ -5,4 +5,4 @@
 * [Projeto Meu Primeiro Site Completo com HTML DIO](https://j4nah.github.io/Desafio-site-DIO/)
 * [Projeto GeekVerse](https://j4nah.github.io/GeekVerse/)
 * [Projeto HTML CSS DIO](https://j4nah.github.io/DesafioDIO-HTML-CSS/)
-* [Projeto Calculadora[(https://j4nah.github.io/calculadora/)
+* [Projeto Calculadora](https://j4nah.github.io/calculadora/)
